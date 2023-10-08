@@ -1,11 +1,11 @@
-## Covid_Project
+# Covid_Project
 
-#COVID-19 Dataset Analysis
+# COVID-19 Dataset Analysis
 
-#Introduction
+# Introduction
 In the wake of the global COVID-19 pandemic, data-driven insights have become essential for understanding and managing the spread of the virus. This dataset provides valuable information related to COVID-19 testing and symptoms, offering opportunities for analysis and research. This README serves as an introduction to the dataset and its potential applications.
 
-#Dataset Overview
+# Dataset Overview
 This dataset contains records of individuals who underwent COVID-19 testing. Each row represents a unique individual and includes the following columns:
 
 Ind_ID: Unique identifier for each individual.
@@ -33,7 +33,7 @@ Track temporal trends by analyzing how the number of COVID-19 cases or test resu
 Usage
 This dataset can be utilized for a wide range of COVID-19 data analyses, research, and modeling. Researchers, data scientists, and analysts can gain insights into the prevalence of symptoms, demographics of affected individuals, and the impact of known contacts on transmission.
 
-#Conclusion
+# Conclusion
 This COVID-19 dataset serves as a valuable resource for gaining insights into the dynamics of the pandemic, particularly related to testing, symptoms, and demographic factors. The data contained within it offers numerous opportunities for analysis and research to better understand the impact of the virus.
 
 As we navigate these unprecedented times, it is crucial to harness the power of data to inform decision-making, public health policies, and research initiatives. This dataset, with its detailed information on COVID-19 testing and symptoms, can contribute to efforts aimed at:
